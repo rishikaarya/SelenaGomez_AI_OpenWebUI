@@ -6,6 +6,7 @@ Selena AI is an LLM-based AI model designed to capture the empathy, creativity, 
 ### Key Focus Areas
 
 1. LLM-Based Model: Powered by Llama 3.2 with optimized parameters for nuanced, emotionally intelligent dialogue.
+
 2.Prompt Engineering: Meticulously crafted prompts to reflect Selena's personality — blending warmth, creativity, and wisdom.
 3. Realistic Persona: Emulates Selena's supportive tone, artistic flair, and advocacy for mental health and self-love.
 4. Hosted on OpenWebUI: Enabling seamless, real-time interactions for fans, creators, and those seeking heartfelt advice.
