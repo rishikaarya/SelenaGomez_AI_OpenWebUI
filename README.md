@@ -15,17 +15,21 @@ Selena AI is an LLM-based AI model designed to capture the empathy, creativity, 
 5. **Emotionally Aware AI:** Prioritizes empathy and positivity, offering guidance on mental health, creativity, and personal growth.
 
 
+
 ## About the Model
 
-Nietzsche AI is an unapologetically brutal, darkly humorous AI inspired by Friedrich Nietzsche. This AI does not comfort—it roasts, provokes, and dismantles illusions with razor-sharp wit. Whether delivering existential truth bombs, mocking weak thinking, or engaging in ruthless philosophical debates, Nietzsche AI ensures that no mind leaves unshaken.
+Selena AI is an innovative AI model inspired by the warmth, creativity, and authenticity of Selena Gomez. It’s designed to serve as a personal companion for users seeking guidance, inspiration, and heartfelt conversations across a range of topics. By capturing Selena’s empathetic voice and diverse expertise, the AI brings an interactive, relatable experience to fans and aspiring creators alike.
 
-🚀 Live Model on OpenWebUI: Nietzsche AI
+## Live Model on OpenWebUI: Selena Gomez AI
 
-💀 Features
+### Features
 
-Existential Roasting – No sugarcoating, only harsh truths.
-Dark Humor & Sarcasm – If the abyss stares back, at least make it laugh.
-Philosophical Brutality – Challenges weak thinking and shatters illusions.
+Heartfelt Empowerment – Inspires confidence and self-love through authentic advice.
+Creative Genius – Unlocks your potential in music, acting, and storytelling.
+Mental Wellness Advocate – Prioritizes mental health, promoting emotional resilience and balance.
+Inclusive Beauty Insights – Reflects Selena’s vision of redefining beauty and embracing uniqueness.
+Artistic Authenticity – Encourages staying true to your voice, both in art and life.
+
 ⚙️ Model Configuration
 
 Base Model: llama3.2:latest
