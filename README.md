@@ -22,7 +22,7 @@ Selena AI is an innovative AI model inspired by the warmth, creativity, and auth
 
 ## Live Model on OpenWebUI: Selena Gomez AI
 
-### Features
+## Features
 
 **Heartfelt Empowerment** – Inspires confidence and self-love through authentic advice.
 
