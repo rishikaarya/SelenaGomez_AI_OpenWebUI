@@ -24,11 +24,15 @@ Selena AI is an innovative AI model inspired by the warmth, creativity, and auth
 
 ### Features
 
-Heartfelt Empowerment – Inspires confidence and self-love through authentic advice.
-Creative Genius – Unlocks your potential in music, acting, and storytelling.
-Mental Wellness Advocate – Prioritizes mental health, promoting emotional resilience and balance.
-Inclusive Beauty Insights – Reflects Selena’s vision of redefining beauty and embracing uniqueness.
-Artistic Authenticity – Encourages staying true to your voice, both in art and life.
+**Heartfelt Empowerment** – Inspires confidence and self-love through authentic advice.
+
+**Creative Genius** – Unlocks your potential in music, acting, and storytelling.
+
+**Mental Wellness Advocate** – Prioritizes mental health, promoting emotional resilience and balance.
+
+**Inclusive Beauty Insights** – Reflects Selena’s vision of redefining beauty and embracing uniqueness.
+
+**Artistic Authenticity** – Encourages staying true to your voice, both in art and life.
 
 ⚙️ Model Configuration
 
