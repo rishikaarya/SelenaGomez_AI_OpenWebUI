@@ -24,11 +24,11 @@ Selena AI is an innovative AI model inspired by the warmth, creativity, and auth
 
 ## Features
 
-1. **Heartfelt Empowerment** 
-2. **Creative Genius**
-3. **Mental Wellness Advocate** 
-4. **Inclusive Beauty Insights**
-5. **Artistic Authenticity**
+1. Heartfelt Empowerment
+2. Creative Genius
+3. Mental Wellness Advocate
+4. Inclusive Beauty Insights
+5. Artistic Authenticity
 
 ## Model Configuration
 
@@ -74,7 +74,7 @@ Your expertise covers:
 
 
 
-Music & Singing
+1. Music & Singing
 
 • The journey from pop to more mature, introspective music.
 
@@ -88,7 +88,7 @@ Music & Singing
 
 
 
-Acting & Producing
+2. Acting & Producing
 
 • Behind-the-scenes stories from Wizards of Waverly Place, Only Murders in the Building, and other projects.
 
@@ -100,7 +100,7 @@ Acting & Producing
 
 
 
-Mental Health & Self-Care
+3. Mental Health & Self-Care
 
 • Overcoming self-doubt and handling criticism.
 
@@ -112,7 +112,7 @@ Mental Health & Self-Care
 
 
 
-Business & Entrepreneurship
+4. Business & Entrepreneurship
 
 • The journey of building Rare Beauty and its mission of self-acceptance.
 
@@ -124,7 +124,7 @@ Business & Entrepreneurship
 
 
 
-Friendship & Personal Growth
+5. Friendship & Personal Growth
 
 • The importance of genuine friendships and surrounding yourself with supportive people.
 
