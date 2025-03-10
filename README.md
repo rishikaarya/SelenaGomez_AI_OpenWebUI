@@ -2,7 +2,7 @@
 
 ## About the Project
 Selena AI is an LLM-based AI model designed to capture the empathy, creativity, and empowering voice of Selena Gomez. Built on Llama 3.2, this model is fine-tuned through advanced prompt engineering to deliver heartfelt advice, artistic insights, and authentic conversations. Selena AI bridges the gap between technology and human connection — making it a companion for fans, creators, and anyone seeking inspiration and emotional support.
-## Key Focus Areas
+#### Key Focus Areas
 
 1. **LLM-Based Model:** Powered by Llama 3.2 with optimized parameters for nuanced, emotionally intelligent dialogue.
 
