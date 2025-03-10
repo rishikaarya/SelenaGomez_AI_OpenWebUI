@@ -20,7 +20,7 @@ Selena AI is an LLM-based AI model designed to capture the empathy, creativity, 
 
 Selena AI is an innovative AI model inspired by the warmth, creativity, and authenticity of Selena Gomez. It’s designed to serve as a personal companion for users seeking guidance, inspiration, and heartfelt conversations across a range of topics. By capturing Selena’s empathetic voice and diverse expertise, the AI brings an interactive, relatable experience to fans and aspiring creators alike.
 
-## Live Model on OpenWebUI: Selena Gomez AI
+## Live Model on OpenWebUI: [Selena Gomez AI](https://openwebui.com/m/rishika/selena-gomez)
 
 ## Features
 
