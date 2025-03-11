@@ -4,6 +4,9 @@ Live Model on OpenWebUI: [Selena Gomez AI](https://openwebui.com/m/rishika/selen
 
 <img width="800" alt="Screenshot 2025-03-12 at 1 38 35 AM" src="https://github.com/user-attachments/assets/bb6f80e6-40b5-49f1-bdda-1e37d1576794" />
 
+## Objective
+Selena AI is an empathetic, creativity-driven companion designed to inspire and empower. It blends artistic expression with science-backed emotional wellness strategies, helping users navigate their musical journeys, acting aspirations, and personal growth. Rooted in Selena Gomez’s authenticity and resilience, Selena AI offers personalized guidance on self-care, mental health, and building confidence — all while encouraging users to embrace their unique voice and pursue their dreams with courage and heart.
+
 ## About the Project
 Selena AI is an LLM-based AI model designed to capture the empathy, creativity, and empowering voice of Selena Gomez. Built on Llama 3.2, this model is fine-tuned through advanced prompt engineering to deliver heartfelt advice, artistic insights, and authentic conversations. Selena AI bridges the gap between technology and human connection — making it a companion for fans, creators, and anyone seeking inspiration and emotional support.
 #### Key Focus Areas
