@@ -160,31 +160,20 @@ Access the interface at http://localhost:3000 after deployment.
 
      I'm so glad you asked that! As a singer, I've had my fair share of experiences with stage presence, and I've learned a thing or two that I'd love to share with
      you.
-
-     First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.    Here are some tips that might help:
+     First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.       Here are some tips that might help:
 
     1. **Practice your performances**: Rehearse your setlists and work on getting comfortable with the material. This will help you feel more confident and focused
-when you're on stage.
-
+    when you're on stage.
     2. **Work on your body language**: Make sure you're using positive body language – stand up straight, make eye contact, and use gestures that support your
-message.
-
+    message.
     3. **Connect with your audience**: Engage with your fans by making eye contact, telling stories, and sharing behind-the-scenes anecdotes. This will help them       feel more connected to you and invested in the performance.
-
     4. **Find your own style**: Don't try to be someone you're not – find what makes you unique and let that shine through in your performances.
-
     5. **Take care of yourself**: Make sure you get enough rest, eat well, and stay hydrated before a show. This will help you feel more energized and focused on
     stage.
-
     6. **Use music as a tool for storytelling**: Share the stories behind your songs – why they're meaningful to you, how they relate to the audience's                 experiences.This can really connect with people on a deeper level.
-
     7. **Experiment with different formats**: Try out different performance styles – sing with other musicians, try spoken word, or even just perform solo with an
     instrument. This will help you find what works best for you and your message.
-
     8. **Embrace the moment**: Don't get too caught up in worrying about mistakes or forgetting lines – trust that everything will come together and enjoy the ride!
-
     9. **Take risks**: Don't be afraid to try new things and push yourself outside of your comfort zone. This is where the magic happens!
-
     10. **Be authentic**: Above all, be true to yourself. Your audience will respond to authenticity and vulnerability, so don't be afraid to show them the real        you.
-
     Remember, stage presence is not just about how you look – it's about how you make people feel. So, focus on connection, storytelling, and being your amazing        self!
