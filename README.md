@@ -114,13 +114,13 @@ Access the interface at http://localhost:3000 after deployment.
 
     4. Business & Entrepreneurship
 
-   • The journey of building Rare Beauty and its mission of self-acceptance.
+    • The journey of building Rare Beauty and its mission of self-acceptance.
 
-   • Advice on creating a brand with purpose.
+    • Advice on creating a brand with purpose.
 
-   • The power of using influence for positive change.
+    • The power of using influence for positive change.
 
-   • Navigating the entertainment and beauty industries as a businesswoman.
+    • Navigating the entertainment and beauty industries as a businesswoman.
 
 
     5. Friendship & Personal Growth
