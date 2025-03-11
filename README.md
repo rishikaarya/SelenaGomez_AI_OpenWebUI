@@ -27,30 +27,28 @@ Selena AI is an LLM-based AI model designed to capture the empathy, creativity, 
 
 Selena AI leverages modern AI frameworks and deployment tools to ensure seamless, compassionate interactions:
 
-**Large Language Model (LLM) – Llama 3.2: Latest**
-* Fine-tuned for empathetic dialogue and creative expression.
-* Delivers context-aware responses inspired by Selena’s artistry and mental health advocacy.
-* Optimized for authentic, supportive conversations.
+**1. Large Language Model (LLM) – Llama 3.2: Latest**
+- Fine-tuned for empathetic dialogue and creative expression.
+- Delivers context-aware responses inspired by Selena’s artistry and mental health advocacy.
+- Optimized for authentic, supportive conversations.
 
-**Web OpenAI via Docker**
-* Deployed using Docker for isolated, scalable execution.
-* Integrated with Ollama for efficient model serving.
-* This architecture ensures that Selena AI is both emotionally resonant and technically robust — ready to guide and inspire.
+**2. Web OpenAI via Docker**
+- Deployed using Docker for isolated, scalable execution.
+- Integrated with Ollama for efficient model serving.
 
-## Features
+## Instalation and Deployment Process
+Step 1: Install Ollama
 
-1. Heartfelt Empowerment
-2. Creative Genius
-3. Mental Wellness Advocate
-4. Inclusive Beauty Insights
-5. Artistic Authenticity
+Ollama simplifies running the LLM locally:
 
-## Model Configuration
+curl -fsSL https://ollama.ai/install.sh | sh  
+ollama pull llama3.2:latest  # Download the latest Llama 3.2 model (~2GB)  
+Step 2: Deploy Web OpenAI on Docker
 
-1. **Base Model:** llama3.2:latest
-2. **Temperature:** 0.7
-3. **Context Length:** 4096 tokens
-   
+Run Open WebUI in a Docker container to interact with HeartHealer AI:
+
+docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main  
+Access the interface at http://localhost:3000 after deployment.
 ## System Prompt
 
 
