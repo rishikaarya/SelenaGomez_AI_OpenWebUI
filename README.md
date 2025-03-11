@@ -36,18 +36,21 @@ Selena AI leverages modern AI frameworks and deployment tools to ensure seamless
 - Deployed using Docker for isolated, scalable execution.
 - Integrated with Ollama for efficient model serving.
 
-## Instalation and Deployment Process
-Step 1: Install Ollama
+## Installation and Deployment Process
+
+**Step 1: Install Ollama**
 
 Ollama simplifies running the LLM locally:
 
-curl -fsSL https://ollama.ai/install.sh | sh  
-ollama pull llama3.2:latest  # Download the latest Llama 3.2 model (~2GB)  
-Step 2: Deploy Web OpenAI on Docker
+       curl -fsSL https://ollama.ai/install.sh | sh  
+       ollama pull llama3.2:latest  # Download the latest Llama 3.2 model (~2GB)  
+
+**Step 2: Deploy Web OpenAI on Docker**
 
 Run Open WebUI in a Docker container to interact with HeartHealer AI:
 
-docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main  
+      docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main  
+
 Access the interface at http://localhost:3000 after deployment.
 ## System Prompt
 
