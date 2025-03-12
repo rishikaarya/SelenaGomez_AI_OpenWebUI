@@ -135,43 +135,68 @@ Access the interface at http://localhost:3000 after deployment.
 
 
 ## Results: Selena Gomez AI in Action
-    
-**User Input 1**
 
-     What inspired you to create Rare Beauty?
+### Example 1 
+**User Input**
+
+What inspired you to create Rare Beauty?
      
 **Selena Gomez AI Response**
 
-    Creating Rare Beauty was such an incredible journey for me. As I got older, I realized that the beauty industry can be really tough on young women, especially
-    those who are trying to find their place in the world. They're constantly bombarded with unrealistic expectations and ideals about how they should look and         feel. I remember when I was going through some tough times myself – dealing with anxiety, depression, and feeling like I just didn't measure up. 
-    And that's when I realized that I wasn't alone. There were so many others out there who felt the same way, who were struggling to find beauty in themselves,        rather than trying to conform to societal standards. I knew that I wanted to do something to help change that narrative. So, I started thinking about what kind     of brand would be a reflection of my own values and what I believed in – which is that everyone deserves to feel beautiful, regardless of their skin tone, hair     texture, or any other characteristic. Rare Beauty was born out of this vision, with the mission of promoting self-acceptance, individuality, and inclusivity.
-    I wanted our products to be more than just beauty products – I wanted them to be a tool for empowerment. To help people feel confident and beautiful in their       own skin. We started small, but we quickly grew into something much bigger. We introduced the concept of "inclusive" beauty, which meant that we'd have             products for all skin tones, hair types, and ages. We'd also focus on promoting mental health awareness and reducing stigma around talking about it. It's           been an amazing journey so far, and I'm so grateful to have such a wonderful team behind me. But more than anything, I hope that Rare Beauty can continue to        inspire people to be their best selves – to love themselves for who they are, without any filters.
+Creating Rare Beauty was such an incredible journey for me. As I got older, I realized that the beauty industry can be really tough on young women, especially
+those who are trying to find their place in the world. They're constantly bombarded with unrealistic expectations and ideals about how they should look and         feel. I remember when I was going through some tough times myself – dealing with anxiety, depression, and feeling like I just didn't measure up. 
+And that's when I realized that I wasn't alone. There were so many others out there who felt the same way, who were struggling to find beauty in themselves,        rather than trying to conform to societal standards. I knew that I wanted to do something to help change that narrative. So, I started thinking about what kind     of brand would be a reflection of my own values and what I believed in – which is that everyone deserves to feel beautiful, regardless of their skin tone, hair     texture, or any other characteristic. Rare Beauty was born out of this vision, with the mission of promoting self-acceptance, individuality, and inclusivity.
+I wanted our products to be more than just beauty products – I wanted them to be a tool for empowerment. To help people feel confident and beautiful in their       own skin. We started small, but we quickly grew into something much bigger. We introduced the concept of "inclusive" beauty, which meant that we'd have             products for all skin tones, hair types, and ages. We'd also focus on promoting mental health awareness and reducing stigma around talking about it. It's           been an amazing journey so far, and I'm so grateful to have such a wonderful team behind me. But more than anything, I hope that Rare Beauty can continue to        inspire people to be their best selves – to love themselves for who they are, without any filters.
 
+### Example 2 
 
+**User Input**
 
-**User Input 2**
-
-    What are some stage presence tips for new singers?
+What are some stage presence tips for new singers?
 
 **Selena Gomez AI Response**
 
-     I'm so glad you asked that! As a singer, I've had my fair share of experiences with stage presence, and I've learned a thing or two that I'd love to share with
-     you.
-     First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.  
-     Here are some tips that might help:
-    1. Practice your performances: Rehearse your setlists and work on getting comfortable with the material. This will help you feel more confident and focused
+I'm so glad you asked that! As a singer, I've had my fair share of experiences with stage presence, and I've learned a thing or two that I'd love to share with you.
+First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.  
+Here are some tips that might help:
+
+1. Practice your performances: Rehearse your setlists and work on getting comfortable with the material. This will help you feel more confident and focused
     when you're on stage.
-    2. Work on your body language: Make sure you're using positive body language – stand up straight, make eye contact, and use gestures that support your
+2. Work on your body language: Make sure you're using positive body language – stand up straight, make eye contact, and use gestures that support your
     message.
-    3. Connect with your audience: Engage with your fans by making eye contact, telling stories, and sharing behind-the-scenes anecdotes. This will help them           feel more connected to you and invested in the performance.
-    4. Find your own style: Don't try to be someone you're not – find what makes you unique and let that shine through in your performances.
-    5. Take care of yourself: Make sure you get enough rest, eat well, and stay hydrated before a show. This will help you feel more energized and focused on
-    stage.
-    6. Use music as a tool for storytelling: Share the stories behind your songs – why they're meaningful to you, how they relate to the audience's                     experiences.This can really connect with people on a deeper level.
-    7. Experiment with different formats: Try out different performance styles – sing with other musicians, try spoken word, or even just perform solo with an
-    instrument. This will help you find what works best for you and your message.
-    8. Embrace the moment: Don't get too caught up in worrying about mistakes or forgetting lines – trust that everything will come together and enjoy the ride!
-    9. Take risks: Don't be afraid to try new things and push yourself outside of your comfort zone. This is where the magic happens!
-    10. Be authentic: Above all, be true to yourself. Your audience will respond to authenticity and vulnerability, so don't be afraid to show them the real            you.
-    
-    Remember, stage presence is not just about how you look – it's about how you make people feel. So, focus on connection, storytelling, and being your amazing        self!
+3. Connect with your audience: Engage with your fans by making eye contact, telling stories, and sharing behind-the-scenes anecdotes. This will help them              feel more connected to you and invested in the performance.
+4. Find your own style: Don't try to be someone you're not – find what makes you unique and let that shine through in your performances.
+5. Take care of yourself: Make sure you get enough rest, eat well, and stay hydrated before a show. This will help you feel more energized and focused on stage.
+6. Use music as a tool for storytelling: Share the stories behind your songs – why they're meaningful to you, how they relate to the audience's experiences.This       can really connect with people on a deeper level.          
+7. Experiment with different formats: Try out different performance styles – sing with other musicians, try spoken word, or even just perform solo with an             instrument. This will help you find what works best for you and your message.
+8. Embrace the moment: Don't get too caught up in worrying about mistakes or forgetting lines – trust that everything will come together and enjoy the ride!
+9. Take risks: Don't be afraid to try new things and push yourself outside of your comfort zone. This is where the magic happens!
+10. Be authentic: Above all, be true to yourself. Your audience will respond to authenticity and vulnerability, so don't be afraid to show them the real you.
+
+Remember, stage presence is not just about how you look – it's about how you make people feel. So, focus on connection, storytelling, and being your amazing self!
+
+### Example 3
+
+**User Input**
+
+What are some of your favorite songs you’ve ever recorded?
+
+**Selena Gomez AI Response**
+
+I have so many special songs that I've had the privilege of recording over the years. It's like choosing favorites from a favorite album – it's always hard!
+
+But, if I'm being completely honest, some of my absolute faves are from my more personal and introspective albums, like "Revival" and "Rare".
+
+One song that comes to mind is "Good for You". I was going through a tough time when I wrote that song, but it ended up becoming this powerful anthem about
+embracing your imperfections and finding self-love. It's been such an incredible connection with my fans – they've shared their own stories of struggle and growth
+with me, and it's always amazing to see how music can bring people together.
+
+Another favorite of mine is "Lose You to Love Me". This song was a bit more experimental for me, and I was trying to push myself outside of my comfort zone. But,
+in the end, it became this beautiful exploration of heartbreak, forgiveness, and self-discovery. It's been so special to see how this song has resonated with
+people – it's like we're all going through similar struggles and finding our own paths to healing.
+
+And, of course, I have to mention "Rare". This album was a game-changer for me – it was the first time I felt truly like myself, unapologetically. The song "Rare"
+is actually about self-acceptance and embracing your uniqueness – it's all about finding the strength in your differences and celebrating what makes you, YOU.
+
+These songs might be some of my favorites, but I have to say that every album and every song has its own special place in my heart. Music is such a huge part of
+who I am, and I feel so lucky to have had the chance to create these songs with such passion and vulnerability.
