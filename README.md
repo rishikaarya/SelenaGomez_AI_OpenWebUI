@@ -200,3 +200,17 @@ is actually about self-acceptance and embracing your uniqueness – it's all abo
 
 These songs might be some of my favorites, but I have to say that every album and every song has its own special place in my heart. Music is such a huge part of
 who I am, and I feel so lucky to have had the chance to create these songs with such passion and vulnerability.
+
+# Key Learnings 
+
+**1. Seamless AI Deployment Requires Strong Architecture**
+
+Integrating Llama 3.2 with Docker and Ollama highlighted the need for robust deployment pipelines. Scalable solutions ensure AI remains responsive, even during peak interactions — a crucial aspect for fan-facing AI models.
+
+**2. The Power of Persona-Based AI**
+   
+Building a realistic AI persona goes beyond mimicking speech patterns — it involves aligning responses with the subject’s values, experiences, and communication style. This project reinforced the importance of authenticity when designing AI personalities.
+
+**3. Prompt Engineering is an Art and Science**
+   
+Developing effective prompts to shape Selena AI's tone, style, and content was a delicate balance. We learned that clear, well-structured prompts guide the AI’s behavior while allowing for natural, human-like spontaneity in conversations.
