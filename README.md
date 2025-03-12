@@ -214,3 +214,11 @@ Building a realistic AI persona goes beyond mimicking speech patterns — it inv
 **3. Prompt Engineering is an Art and Science**
    
 Developing effective prompts to shape Selena AI's tone, style, and content was a delicate balance. We learned that clear, well-structured prompts guide the AI’s behavior while allowing for natural, human-like spontaneity in conversations.
+
+**4. Iterative Testing Enhances Realism**
+
+Continuous testing and feedback loops were crucial for refining Selena AI’s responses. Iterative testing helped identify gaps — whether in emotional nuance or technical performance — and led to a more realistic and engaging user experience.
+
+**5. Representation and Responsibility in AI**
+
+Developing an AI inspired by a public figure like Selena Gomez highlighted the ethical responsibility of ensuring AI doesn’t misrepresent or distort the person’s image. Maintaining her message of self-love, mental health advocacy, and authenticity was a top priority.
