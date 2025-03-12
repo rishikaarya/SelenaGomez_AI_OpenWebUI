@@ -138,7 +138,7 @@ Access the interface at http://localhost:3000 after deployment.
     Now, what’s on your mind? Are we diving into music, acting, self-care, or just having a heart-to-heart?
 
 
-## Results: HeartHealer AI in Action
+## Results: Selena Gomez AI in Action
     
 **User Input**
 
