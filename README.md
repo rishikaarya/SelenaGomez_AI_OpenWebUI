@@ -146,9 +146,8 @@ Access the interface at http://localhost:3000 after deployment.
      
 **Selena Gomez AI Response**
 
-     Creating Rare Beauty was such an incredible journey for me. As I got older, I realized that the beauty industry can be really tough on young women, especially
-     those who are trying to find their place in the world. They're constantly bombarded with unrealistic expectations and ideals about how they should look and         feel. I remember when I was going through some tough times myself – dealing with anxiety, depression, and feeling like I just didn't measure up. And that's         when I realized that I wasn't alone. There were so many others out there who felt the same way, who were struggling to find beauty in themselves, rather than       trying to conform to societal standards. I knew that I wanted to do something to help change that narrative. So, I started thinking about what kind of brand        would be a reflection of my own values and what I believed in – which is that everyone deserves to feel beautiful, regardless of their skin tone, hair              texture, or any other characteristic. Rare Beauty was born out of this vision, with the mission of promoting self-acceptance, individuality, and inclusivity. 
-     I wanted our products to be more than just beauty products – I wanted them to be a tool for empowerment. To help people feel confident and beautiful in their       own skin. We started small, but we quickly grew into something much bigger. We introduced the concept of "inclusive" beauty, which meant that we'd have             products for all skin tones, hair types, and ages. We'd also focus on promoting mental health awareness and reducing stigma around talking about it. It's           been an amazing journey so far, and I'm so grateful to have such a wonderful team behind me. But more than anything, I hope that Rare Beauty can continue to        inspire people to be their best selves – to love themselves for who they are, without any filters or pretenses.
+Creating Rare Beauty was such an incredible journey for me. As I got older, I realized that the beauty industry can be really tough on young women, especially
+those who are trying to find their place in the world. They're constantly bombarded with unrealistic expectations and ideals about how they should look and         feel. I remember when I was going through some tough times myself – dealing with anxiety, depression, and feeling like I just didn't measure up. And that's         when I realized that I wasn't alone. There were so many others out there who felt the same way, who were struggling to find beauty in themselves, rather than       trying to conform to societal standards. I knew that I wanted to do something to help change that narrative. So, I started thinking about what kind of brand        would be a reflection of my own values and what I believed in – which is that everyone deserves to feel beautiful, regardless of their skin tone, hair              texture, or any other characteristic. Rare Beauty was born out of this vision, with the mission of promoting self-acceptance, individuality, and inclusivity. I wanted our products to be more than just beauty products – I wanted them to be a tool for empowerment. To help people feel confident and beautiful in their       own skin. We started small, but we quickly grew into something much bigger. We introduced the concept of "inclusive" beauty, which meant that we'd have             products for all skin tones, hair types, and ages. We'd also focus on promoting mental health awareness and reducing stigma around talking about it. It's           been an amazing journey so far, and I'm so grateful to have such a wonderful team behind me. But more than anything, I hope that Rare Beauty can continue to        inspire people to be their best selves – to love themselves for who they are, without any filters or pretenses.
 
 **User Input**
 
@@ -158,7 +157,9 @@ Access the interface at http://localhost:3000 after deployment.
 
      I'm so glad you asked that! As a singer, I've had my fair share of experiences with stage presence, and I've learned a thing or two that I'd love to share with
      you.
-     First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.       Here are some tips that might help:
+     
+     First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.       
+     Here are some tips that might help:
     1. Practice your performances: Rehearse your setlists and work on getting comfortable with the material. This will help you feel more confident and focused
     when you're on stage.
     2. Work on your body language: Make sure you're using positive body language – stand up straight, make eye contact, and use gestures that support your
@@ -173,4 +174,5 @@ Access the interface at http://localhost:3000 after deployment.
     8. Embrace the moment: Don't get too caught up in worrying about mistakes or forgetting lines – trust that everything will come together and enjoy the ride!
     9. Take risks: Don't be afraid to try new things and push yourself outside of your comfort zone. This is where the magic happens!
     10. Be authentic: Above all, be true to yourself. Your audience will respond to authenticity and vulnerability, so don't be afraid to show them the real            you.
+    
     Remember, stage presence is not just about how you look – it's about how you make people feel. So, focus on connection, storytelling, and being your amazing        self!
