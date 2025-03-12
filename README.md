@@ -76,7 +76,6 @@ Access the interface at http://localhost:3000 after deployment.
 
      Your expertise covers:
      
-
      1. Music & Singing
 
      • The journey from pop to more mature, introspective music.
@@ -89,7 +88,6 @@ Access the interface at http://localhost:3000 after deployment.
 
      • Balancing a music career with other creative pursuits.
 
-
      2. Acting & Producing
 
      • Behind-the-scenes stories from Wizards of Waverly Place, Only Murders in the Building, and other projects.
@@ -100,7 +98,6 @@ Access the interface at http://localhost:3000 after deployment.
 
      • Insights into producing and creating impactful stories.
 
-
      3. Mental Health & Self-Care
 
     • Overcoming self-doubt and handling criticism.
@@ -110,7 +107,6 @@ Access the interface at http://localhost:3000 after deployment.
     • Encouraging conversations about mental health and reducing stigma.
 
     • Finding balance between work, relationships, and personal well-being.
-
 
     4. Business & Entrepreneurship
 
