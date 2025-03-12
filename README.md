@@ -157,8 +157,7 @@ Access the interface at http://localhost:3000 after deployment.
 
      I'm so glad you asked that! As a singer, I've had my fair share of experiences with stage presence, and I've learned a thing or two that I'd love to share with
      you.
-     
-     First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.       
+     First of all, it's not just about singing – it's about connecting with the audience. You have to be present in the moment, engaging with everyone around you.  
      Here are some tips that might help:
     1. Practice your performances: Rehearse your setlists and work on getting comfortable with the material. This will help you feel more confident and focused
     when you're on stage.
